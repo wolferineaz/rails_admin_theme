@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
 
 body {
   color: $black;
   background: $background;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 body.rails_admin .form-horizontal textarea {
